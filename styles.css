@@ -1,0 +1,23 @@
+* {
+    background-color: #FEF3DD;
+}
+
+h1,
+p,
+a{
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+h1{
+    color: coral;
+}
+
+a{
+    color: lightseagreen;
+}
+
+img{
+    height: 200;
+    width: 200;
+}
