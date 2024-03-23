@@ -1,26 +1,19 @@
 * {
     background-color: #FEF3DD;
-}
-
-h1,
-p,
-a{
-    font-family: Georgia, serif;
-    font-weight: bold;
     text-align: center;
+    font-family: Georgia, serif;
 }
 
 h1{
     color: coral;
 }
 
-a{
+a,
+li{
     color: lightseagreen;
-}
-
-li,
-img {
-    text-align: center;
+    display: block;
+    margin-left: 210px;
+    margin-right: 230px;
 }
 
 .center {
