@@ -1,7 +1,7 @@
 * {
     background-color: #FEF3DD;
     text-align: center;
-    font-family: Georgia, serif;
+    font-family: Georgia, Arial, sans-serif;
 }
 
 h1{
@@ -12,8 +12,15 @@ a,
 li{
     color: lightseagreen;
     display: block;
+    font-weight: bold;
     margin-left: 210px;
     margin-right: 230px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+a {
+    border: 3px solid black;
 }
 
 .center {
