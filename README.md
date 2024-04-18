@@ -1,6 +1,7 @@
 This is a recipe page project to showcase basic HTML and CSS skills, containing a homepage and 3 recipe pages. This project has taught me:
 - Industry standard HTML boilerplate structure.
 - How to structure HTML code.
+- Industry standard homepage naming for webpages (index.html)
 - The 3 different methods of adding CSS to HTML (as a style.css file in the same folder, inside <style> inside <head>, within HTML tags)
 - How to use CSS to change colors and text features (font-style, font-weight, etc).
 - How to add images to pages and centre them.
