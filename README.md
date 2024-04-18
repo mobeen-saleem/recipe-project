@@ -2,7 +2,9 @@ This is a recipe page project to showcase basic HTML and CSS skills, containing 
 - Industry standard HTML boilerplate structure.
 - How to structure HTML code.
 - The 3 different methods of adding CSS to HTML (as a style.css file in the same folder, inside <style> inside <head>, within HTML tags)
-- How to use CSS to change colors, text features (font-style, font-weight, etc), adjust padding, margins and borders.
+- How to use CSS to change colors and text features (font-style, font-weight, etc).
+- How to add images to pages and centre them.
+- How to adjust the padding, margin and borders of items on a page.
 
 The homepage (index.html) contains:
 - A logo centred at the top of the screen (images generated from: https://cooltext.com/)
